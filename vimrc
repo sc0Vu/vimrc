@@ -24,6 +24,7 @@ set backspace=indent,eol,start
 autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
 autocmd Filetype go setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
 autocmd Filetype typescript setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
+autocmd Filetype cs setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
 
 " Hardcore mode, disable arrow keys.
 "noremap <Up> <NOP>
